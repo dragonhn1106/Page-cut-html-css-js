@@ -1,0 +1,152 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.news--img-size {
+  height: 154px;
+  width: 100%;
+}
+
+.news--tittle {}
+
+.news--tittle a {
+  text-decoration: none;
+  color: #4e4e4e;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4rem;
+  margin: 0 0 .625rem;
+  width: 100%;
+}
+
+.news--content {
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 1.275rem;
+  color: #666;
+  text-align: justify;
+}
+
+.du-an--img-size {
+  height: 100%;
+}
+
+.du-an--tittle {
+  border-left: 2px solid #f1b21d;
+}
+
+.du-an--tittle a {
+  color: #333;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: block;
+  padding-left: .9375rem;
+}
+
+.thumb {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  line-height: 60px;
+  padding: 10px;
+  margin-right: 15px;
+  text-align: center;
+  background-color: #fff;
+  vertical-align: top;
+  border-radius: 50%;
+}
+
+.item {
+  margin: 0 0 1.875rem;
+}
+
+.thumb img {
+  max-width: 100%;
+  height: auto;
+}
+
+.content {
+  display: inline-block;
+  width: calc(100% - 100px);
+}
+
+.content h3 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  color: #3c3c3c;
+  line-height: 1.525rem;
+  margin: 0 0 .9375rem;
+}
+
+.san-pham--tittle a {
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.525rem;
+  margin: 0 0 .313rem;
+  color: #3c3c3c;
+  transition: all .3s;
+}
+
+.sp--tittle a {
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.525rem;
+  margin: 0 0 .313rem;
+  color: #3c3c3c;
+  transition: all .3s;
+  text-decoration: none;
+}
+
+.sp--figcaption {
+  background-color: white;
+}
+
+.sp--figcaption h6 {
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 1.275rem;
+  color: #3c3c3c;
+  text-align: justify;
+}
+
+.sp--img {
+  width: 100%;
+}
+
+.gioi-thieu--tittle {
+  margin: auto
+}
+
+.doi-tac--tittle p {
+  font-size: 1.125rem;
+  font-weight: 500;
+  color: #3c3c3c;
+  margin: 0 0 1.875rem;
+  text-align: justify;
+}
+
+.bds--menu {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  margin: auto;
+  left: 0;
+  top: 0;
+}
+
+@media (min-width: 992px) {
+  .cuttom--navbar {
+    left: 50%
+  }
+}
+
+.navbar-brand.active {
+  color: #ffd00c
+}
+
+.homePage--banner-search {
+  margin-top: 70px
+}

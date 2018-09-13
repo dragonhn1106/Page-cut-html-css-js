@@ -1,0 +1,16 @@
+.figure {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.4rem;
+  color: #333;
+  margin: 0 0 .625rem;
+  text-decoration: none;
+}
+
+.new--title {
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 1.275rem;
+  color: #666;
+  text-align: justify;
+}

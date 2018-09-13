@@ -1,0 +1,62 @@
+* {
+  margin: 0px;
+  padding: 0px
+}
+
+.background-text {
+  width: 100%;
+  height: 500px;
+  background: #ededee;
+}
+
+.homePage--size--slide {
+  margin: auto;
+  border: 2px solid #ededee;
+  background-color: #ededee;
+  padding: 15px;
+  border-radius: 10px;
+  width: 95%;
+}
+
+.footer--gioi-thieu {
+  background-color: #ededee;
+  width: 100%;
+  height: 200px;
+  margin-top: 20px
+}
+
+.footer--page {
+  background-color: #ededee;
+  height: auto;
+  border-top: 2px solid #eaeaeb;
+  margin-top: 40px;
+}
+
+.font-weight-bold {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.4rem;
+  padding: 0 0 .625rem;
+  margin: 0 0 .9375rem;
+  position: relative;
+  color: #333;
+  text-transform: uppercase;
+}
+
+.footer--radius-button {
+  border: 2px solid #d8d8d9;
+  width: 20%;
+  border-radius: 10px
+}
+
+.footer--font {
+  font-size: .813rem;
+  font-weight: 500;
+  line-height: 1.213rem;
+  color: #666;
+  margin: 0 0 .625rem;
+}
+
+.col-4.mx-auto {
+  border-right: 2px solid white;
+}
